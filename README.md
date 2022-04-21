@@ -1,4 +1,4 @@
-### Hi there 👋
+### Console.WriteLine("Hello World, I'm Fury Greenwood!"); 👋
 
 <!--
 **FuryGreenwood/FuryGreenwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
